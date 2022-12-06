@@ -1,7 +1,7 @@
 ### Hi 🐥 Welcome to my Github Profile!
 
 - I'm an experienced Analytics Engineer/Data Engineer and aspiring Machine Learning Engineer.
-- I'm from Vietnam <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="30"/>. 
+- I'm from Vietnam 🇻🇳. 
 - I mostly use Python, and sometimes R, C and Java.
 
 [![truonghm's github stats](https://github-readme-stats.vercel.app/api?username=truonghm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/truonghm/truonghm)
