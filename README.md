@@ -10,6 +10,10 @@
   <img align="center" alt="truonghm-tf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="truonghm-spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
   </div>
+  <img align="center" alt="truonghm-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="truonghm-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="truonghm-databricks" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">
+  </div>
 
 ##
 
