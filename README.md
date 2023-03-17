@@ -8,6 +8,8 @@
   <img align="center" alt="truonghm-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="truonghm-r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="truonghm-tf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="truonghm-spark" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg">
+  <img align="center" alt="truonghm-spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
   </div>
 
 ##
