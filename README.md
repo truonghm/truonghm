@@ -2,7 +2,7 @@
 
 [![truonghm's github stats](https://github-readme-stats.vercel.app/api?username=truonghm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/truonghm/truonghm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghm&layout=compact&theme=radical&cache_seconds=86400&hide=html,css)](https://github.com/truonghm/truonghm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghm&layout=compact&theme=radical&cache_seconds=86400&hide=html,css,jupyter%20notebook)](https://github.com/truonghm/truonghm)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="truonghm-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
