@@ -1,4 +1,4 @@
-### Hi 🐥
+### Hi 🐈‍⬛
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghm&layout=compact&theme=radical&cache_seconds=86400&hide=html,css,jupyter%20notebook)](https://github.com/truonghm/truonghm)
 
