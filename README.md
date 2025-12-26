@@ -1,6 +1,4 @@
-### Hi 🐈‍⬛
-
-### Hi, I’m [Truong](https://www.youtube.com/watch?v=gE4IJHgn4T8).
+### Hi, I’m [Truong](https://www.youtube.com/watch?v=gE4IJHgn4T8) 🐈‍⬛
 
 I am working on:
 
