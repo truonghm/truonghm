@@ -2,7 +2,7 @@
 
 I am working on:
 
-- Building ML & Data platform (LLM evaluation & observability, feature store, ML inference).
+- Building ML platform (LLM evaluation & observability, feature store, ML inference).
 - Building an AI agent that can perform advanced analytics, causal inference, and time series forecasting.
 - Exploring Shopify App development with AI!
 
