@@ -13,4 +13,4 @@ I'm currently a senior ML Engineer at GFT Technologies/Woven by Toyota.
 You can find me on:
 
 - [Linkedin (@hmtrg)](https://www.linkedin.com/in/hmtrg/)
-- [GitHub (@truonghm)](https://github.com/truonghm)
+- GitHub ([@truonghm](https://github.com/truonghm) / [@truonghm-woven](https://github.com/truonghm-woven))
