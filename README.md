@@ -1,10 +1,16 @@
 ### Hi 🐈‍⬛
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghm&layout=compact&theme=radical&cache_seconds=86400&hide=html,css,jupyter%20notebook)](https://github.com/truonghm/truonghm)
+### Hi, I’m [Truong](https://www.youtube.com/watch?v=gE4IJHgn4T8).
 
-##
+I am working on:
 
-<div>
-  <a href="https://www.linkedin.com/in/truonghoangmanh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Building ML & Data platform (LLM evaluation & observability, feature store, ML inference).
+- Building an AI agent that can perform advanced analytics, causal inference, and time series forecasting.
+- Exploring Shopify App development with AI!
 
-</div>
+I'm currently a senior ML Engineer at GFT Technologies/Woven by Toyota.
+
+You can find me on:
+
+- [Linkedin (@hmtrg)](https://www.linkedin.com/in/hmtrg/)
+- [GitHub (@truonghm)](https://github.com/truonghm)
