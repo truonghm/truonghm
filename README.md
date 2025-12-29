@@ -1,6 +1,6 @@
 ### Hi, I’m [Truong](https://www.youtube.com/watch?v=gE4IJHgn4T8) 🐈‍⬛
 
-I am working on:
+What I'm working on at the moment:
 
 - Doing ML/MLOps/LLMOps stuff at GFT Technologies/Woven by Toyota.
 - Building an AI agent that can perform advanced analytics, causal inference, and time series forecasting.
