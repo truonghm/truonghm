@@ -1,10 +1,8 @@
 ### Hi, I’m [Truong](https://www.youtube.com/watch?v=gE4IJHgn4T8) 🐈‍⬛
 
-What I'm working on at the moment:
+What I'm working on at the moment: ML/MLOps/LLMOps stuff at GFT Technologies/Woven by Toyota.
 
-- Doing ML/MLOps/LLMOps stuff at GFT Technologies/Woven by Toyota.
-- Building an AI agent that can perform advanced analytics, causal inference, and time series forecasting.
-- Exploring Shopify App development with AI!
+Topics of interest: MLOps, Distributed systems, Time series, Reccomendation and Search, HPC.
 
 You can find me on:
 
